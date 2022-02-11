@@ -1,5 +1,5 @@
 ## 从零开始的世界 👋
-[![Mail Badge](https://img.shields.io/badge/-admin@wlhhlc.top-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:whl1456571652@gmail.com)](whl1456571652@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-admin@wlhhlc.top-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:admin@wlhhlc.top)](admin@wlhhlc.top)
 ---
 
 ### I'm dota_st
