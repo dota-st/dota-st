@@ -4,7 +4,7 @@
 
 ### I'm dota_st
 
-- A CTFer & safety features.
+- A CTFer & security researcher.
 - 🌱 Currently working in China.
 - ⚡ Fun fact: Vulnerability Discovery
 
