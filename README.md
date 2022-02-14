@@ -4,7 +4,7 @@
 
 ### I'm dota_st
 
-- A CTFer & white hat hackers.
+- A CTFer & safety features.
 - 🌱 Currently working in China.
 - ⚡ Fun fact: Vulnerability Discovery
 
