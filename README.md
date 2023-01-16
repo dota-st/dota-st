@@ -14,6 +14,6 @@
 - Blog：https://www.wlhhlc.top/
 - Article：(奇安信攻防社区)https://forum.butian.net/people/1665/community
 
-[![Cl0udG0d's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dota-st&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![dota-st's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dota-st&show_icons=true&theme=onedark)](https://github.com/dota-st)
 
 > ***一切漏洞都来源于人们对细微之处的忽视😊***
