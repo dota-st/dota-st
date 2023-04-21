@@ -13,6 +13,7 @@
 - `ctfer` && `漏洞挖掘` && `安全研究员`<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 - Blog：https://www.wlhhlc.top/
 - Article：(奇安信攻防社区)https://forum.butian.net/people/1665/community
+- 公众号：虹猫少侠
 
 [![dota-st's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dota-st&show_icons=true&theme=onedark)](https://github.com/dota-st)
 
